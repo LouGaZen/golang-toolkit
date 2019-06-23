@@ -4,7 +4,7 @@ useful tool of golang
 
 ### Todo
 
- - [ ] convert interface to multi type of build-in
+ - [x] convert interface to multi type of build-in
  - [ ] map
  - [ ] error
  - [ ] guid && uuid
